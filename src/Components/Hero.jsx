@@ -10,7 +10,7 @@ const Hero = () => {
                             <p>I'm</p>
                             <h1>Precious Adesola</h1>
                             <h2></h2>
-                            <div className="typed-text">I am a Software Developer, With deep knowledge of REACTJS, TYPESCRIPT, JAVASCRIPT, PHP, CSS, HTML</div>
+                            <div className="typed-text">I am a Software Developer, With deep knowledge of REACTJS, TYPESCRIPT, JAVASCRIPT, CSS, HTML</div>
                         </div>
                         <div className="hero-btn">
                             <a className="btn" href="">Hire Me</a>
