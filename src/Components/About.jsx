@@ -87,7 +87,7 @@ const About = () => {
                             <div className="service-text">
                                 <h3>Backend Development</h3>
                                 <p>
-                                    My backend development skills enable me to build robust, scalable architectures that support dynamic applications. Skilled in PHP and MySQL, I ensure that data flows seamlessly, with an emphasis on security, efficiency, and maintainability, creating a solid foundation for any application’s success.
+                                    My backend development skills enable me to build robust, scalable architectures that support dynamic applications. Skilled in Nodes.js, I ensure that data flows seamlessly, with an emphasis on security, efficiency, and maintainability, creating a solid foundation for any application’s success.
                                 </p>
                             </div>
                         </div>
